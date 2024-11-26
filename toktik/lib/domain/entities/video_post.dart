@@ -10,4 +10,6 @@ class VideoPost {
       required this.videoUrl,
       this.likes = 0,
       this.views = 0});
+
+  static map(Type Function(dynamic video) param0, VideoPost videoPostEntity) {}
 }
