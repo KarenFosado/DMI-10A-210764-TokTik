@@ -31,3 +31,6 @@ Desarrollar una aplicación móvil interactiva y funcional utilizando Flutter, q
 ## DESCRIPCION 
 
 Este proyecto tiene como objetivo el desarrollo de una aplicación móvil para la creación y visualización de videos cortos utilizando Flutter, que permita a los usuarios grabar, editar y compartir videos en una plataforma social. A través de esta aplicación, los usuarios podrán interactuar con otros mediante reacciones, comentarios y compartir sus videos en redes sociales.
+
+
+https://appetize.io/app/b_vcok7sbqvqonmavefd2fcqjwge
